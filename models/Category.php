@@ -21,7 +21,6 @@ class Category
         $this->name = $name;
     }
 
-
     public function getIcon()
     {
         return $this->icon;
