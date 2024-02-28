@@ -47,7 +47,7 @@ $products = [
         'https://arcaplanet.vtexassets.com/arquivos/ids/258384/voliera-wilma1.jpg',
         184.99,
         $categories['bird'],
-        'brown',
+        'legno',
         '150cm x 100cm x 100cm'
     ),
 
@@ -56,7 +56,7 @@ $products = [
         'https://arcaplanet.vtexassets.com/arquivos/ids/272741/tetra-easycrystal-filterpack-250-300.jpg',
         10.99,
         $categories['fish'],
-        'blue',
+        'blu',
         '15cm x 10cm x 5cm'
     ),
 
@@ -65,7 +65,7 @@ $products = [
         'https://arcaplanet.vtexassets.com/arquivos/ids/256599/kong-classic1.jpg',
         10.99,
         $categories['dog'],
-        'red',
+        'rosso',
         ['gomma', 'plastica']
     ),
 
@@ -74,7 +74,7 @@ $products = [
         'https://arcaplanet.vtexassets.com/arquivos/ids/223852/trixie-gatto-gioco-active-mouse-peluche.jpg',
         4.99,
         $categories['cat'],
-        'grey',
+        'grigio',
         ['cotone', 'plastica']
     )
 ];
